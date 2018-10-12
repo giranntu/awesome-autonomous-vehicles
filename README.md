@@ -85,6 +85,8 @@ By Topic Areas and Year of Publication / Submission
 1. **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
 * **[2016]** _Image Based Camera Localization: an Overview_. [[ref](https://arxiv.org/abs/1610.03660)]
 * **[2016]** _Ubiquitous real-time geo-spatial localization_ [[ref](http://dl.acm.org/citation.cfm?id=3005426)]
+* **[2016]** _Robust multimodal sequence-based loop closure detection via structured sparsity_. [[ref](http://www.roboticsproceedings.org/rss12/p43.pdf)]
+* **[2016]** _SRAL: Shared Representative Appearance Learning for Long-Term Visual Place Recognition_. [[ref](http://ieeexplore.ieee.org/document/7839213/)], [[code](https://github.com/hanfeiid/SRAL)]
 * **[2015]** _Precise Localization of an Autonomous Car Based on Probabilistic Noise Models of Road Surface Marker Features Using Multiple Cameras_. [[ref](https://www.semanticscholar.org/paper/Precise-Localization-of-an-Autonomous-Car-Based-on-Jo-Jo/27251099b78185f9ddf59c9ed0c5868af4ef1e80)]
 * **[2013]** _Planar Segments Based Three-dimensional Robotic Mapping in Outdoor Environments_. [[ref](https://www.semanticscholar.org/paper/Planar-Segments-Based-Three-dimensional-Robotic-Xiao/ebddeb22f3b5c38422987c3fe51aaf847ad444e7)]
 * **[2013]** _Vehicle Localization along a Previously Driven Route Using Image Database_. [[ref](https://www.semanticscholar.org/paper/Vehicle-Localization-along-a-Previously-Driven-Kume-Supp%C3%A9/e5a7ac37d542349ae19281f1e2a571f7030b789c)]
@@ -102,6 +104,8 @@ By Topic Areas and Year of Publication / Submission
 * **[2016]** _Deep Multispectral Semantic Scene Understanding of Forested Environments Using Multimodal Fusion_. [[ref](https://www.semanticscholar.org/paper/Deep-Multispectral-Semantic-Scene-Understanding-of-Valada-Oliveira/8be99dd94bff76c75594a15e114268841a2656a7)]
 * **[2016]** _Joint Attention in Autonomous Driving (JAAD)_. [[ref](https://www.semanticscholar.org/paper/Joint-Attention-in-Autonomous-Driving-JAAD--Kotseruba-Rasouli/1e6a26deea0a38310368d9c2a6dadc317b50bdf8), [data](http://data.nvision2.eecs.yorku.ca/JAAD_dataset/)]
 * **[2016]** _Perception for driverless vehicles: design and implementation_. [[ref](https://www.semanticscholar.org/paper/Perception-for-driverless-vehicles-design-and-Benenson-Suarez/bf1c728e3e893670244591f720b453245c3363f6)]
+* **[2016]** _Robust multimodal sequence-based loop closure detection via structured sparsity_. [[ref](http://www.roboticsproceedings.org/rss12/p43.pdf)]
+* **[2016]** _SRAL: Shared Representative Appearance Learning for Long-Term Visual Place Recognition_. [[ref](http://ieeexplore.ieee.org/document/7839213/)], [[code](https://github.com/hanfeiid/SRAL)]
 * **[2015]** _Pixel-wise Segmentation of Street with Neural Networks_. [[ref](https://arxiv.org/abs/1511.00513)]
 * **[2015]** _Deep convolutional neural networks for pedestrian detection_. [[ref](https://arxiv.org/abs/1510.03608)]
 * **[2015]** _Fast Algorithms for Convolutional Neural Networks_. [[ref](https://arxiv.org/abs/1509.09308)]
@@ -260,7 +264,7 @@ By Topic Areas and Year of Publication / Submission
 1. 	[Center for Automotive Research at Stanford](https://cars.stanford.edu/) - Current areas of research focuses on human-centered mobility themes like
 understanding how people will interact with increasingly automated vehicles, societal impacts of vehicle automation from policy to ethics to law, technology advances in sensing, decision-making and control.
 * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/) - The theme of the center is **Human-Centered Artificial Intelligence for Future Intelligent Vehicles and Beyond.**
-* [Berkeley DeepDrive](http://www.path.berkeley.edu/berkeley-deepdrive) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
+* [Berkeley DeepDrive](http://bdd.berkeley.edu/) - Investigates state-of-the-art technologies in computer vision and machine learning for automotive application.
 * [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/) - undergraduate student-led research group at Princeton University dedicated to advancing and promoting the field of robotics through competitive challenges, self-guided research and community outreach.
 * [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/) - conducts research and development in the area of biologically inspired design and robotics.
 * [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/) - Research areas includes Multirotor UAV, Autonomous driving and Multi-Camera Parallel Tracking and Mapping.
@@ -291,6 +295,7 @@ sensors for odometry collected using a Segway robot.
 * [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/) -  a list of frequently used computer vision datasets.
 * [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/) - a large dataset with 10000+ traffic sign annotations, thousands of physically distinct traffic signs. 4 video sequences recorded with 8 high resolution cameras mounted on a van, summing more than 3 hours, with traffic sign annotations, camera calibrations and poses. About 16000 background images. The material is captured in Belgium, in urban environments from Flanders region, by GeoAutomation. 
 * [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html) - traffic sign, vehicles detection, traffic lights, trajectory patterns.
+* [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html) It was recorded using omni-directional stereo cameras during one year in Colorado, USA. [paper](https://arxiv.org/abs/1704.05215)
 
 ## Open Source Software
 1. [Autoware](https://github.com/CPFL/Autoware) - Integrated open-source software for urban autonomous driving.
@@ -304,6 +309,7 @@ sensors for odometry collected using a Segway robot.
 
 ## Toys
 1. [TensorKart](https://github.com/kevinhughes27/TensorKart) - self-driving MarioKart with TensorFlow.
+2. [NeuroJS](https://github.com/janhuenermann/neurojs) - A javascript deep learning and reinforcement learning library. A sample self-driving car implementation.
 
 ## Companies
 
@@ -317,7 +323,7 @@ Different media sources where we can find self-driving car related topics, ideas
 * What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
 * Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
 * Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
-* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?amp;t=980s&v=QK0LxA8FWq4)]
+* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?v=cYTVXfIH0MU)]
 * NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
 * NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
